@@ -1,1 +1,2 @@
-<?php "hello back" ?>
+lets see 
+<?php echo "hello back" ?>
